@@ -1,0 +1,21 @@
+.sidebar{
+    height: 100vh;
+    
+}
+.sidebar ul{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.sidebar ul li{
+    list-style-type: none;
+    margin: 15px 0;
+    color: gray;
+}
+.logOut{
+    position: absolute;
+    bottom: 20%;
+}
+.sidebarLink{
+    color: grey;
+    margin-left: 10px;
+}
